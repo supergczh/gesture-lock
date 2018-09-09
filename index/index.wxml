@@ -12,7 +12,6 @@
   <view class='ft' style="height:{{ftHeight}}px">
     <scroll-view scroll-y="true" style="height:100%;">
       <view class="box">
-        <text>使用说明：</text>
         <text>1) 读取图案密码，密码为空，则进入图案设置模式，反之则进入解锁模式;</text>
         <text>2) 设置模式，点击'重新设置'，取消第一次图案绘制，重新绘制；</text>
         <text>3) 解锁模式，点击'忘记密码'，重置图案密码，重新设置；</text>
